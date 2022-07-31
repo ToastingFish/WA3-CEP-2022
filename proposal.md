@@ -1,25 +1,34 @@
 # General description of project
-> E.g. Building an inventory tracking system for my CCA
+> Building a game assistent system that evaluates the character build and the team build
 
 #Goals of project
-> E.g. Streamline tracking and cataloguing of inventory to facilitate member loans, repairs & Semester stock-taking needs
+> - Provide a evaluation based on the characters' basics stats, weapons and artifacts equiped.
+> - Allow user to input information on up to 4 characters to form a team
+> - Allow user to modify the actions of the characters in the timeline to suit the playstyle of the users
+> - Provided a detailed timeline with the DMG (damage) per frame to showcase the strength of the above team build.
+
 
 # Listing of features
-> List all the features in the fully functional app - you may choose to work on a subset of this listing to produce a MVP (minimum viable product) given constraint of time
+> - A database that covers all common characters and weapons
+> - Input system that handles all the characters stats from user input and provide a review based on the charcters stats
+> - Simulates the characters' stats based on the inputs
+> - An action timeline feature that allowes user to input their desired damage output methods
+> - Providing a detailed feeback on the team damage output based on the characters and the action timeline
 
 # External Scanning
-> Are there similar apps / codebase that you found online that is similar to your project?  Provide link(s) to these projects and outline how will your project be different?
+> There a currently no such applications or webpages that is able to calculate and evaluate the damage output of an entire team (4 characters) but there are such websites that is able to calculate the 1-hit damage of a single character.
 
 # Listing of Key Use Cases
-> Yearly, CCA senior will do stock-take and will need to generate a report on the existing stock.
-> Start of school break, members will loan equipment and will need to return when school break ends.
+> As GI is a mostly single-player game, and there is no ranking or pvp system, players does have have an idea if their character and team is considered good or bad
+> Obtaining new characters in GI is quite difficult for free-to-play players and they may want to evaluate them in such simulators to evaluate their benefits in users' prefered team set-up before choosing to obtain them or not (which cannot be done in the game itself)
 
 # Skills that my project requires me to pick up
-> List out the skills that you are not familiar with that is necessary due to the project scope.
+> - Setting up a database that have assingned values for the system to obtain them
+> - Formatting the result output in an excel document/spreadsheet. 
 
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
-> - Week 5
+> - Week 5 : Project proposal
 > - Week 6
 > - Week 7
 > - Week 8
