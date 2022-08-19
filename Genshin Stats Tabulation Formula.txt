@@ -1,0 +1,11 @@
+Character HP/ATk/DEF:
+Base value * ( 1 + __(percentage increase)__%) + __(stats increase)
+
+e.g. Base HP: 15552, HP%: 46.6%, HP: 4780
+	HP = 15552*(1+0.466) + 4780
+
+Other stats: (simply Addition)
+Value(character) + Value(weapon) + Value(artifacts)
+
+e.g. CRIT DMG(Character): 88.2, CRIT DMG(Weapon): 66.2, CRIT DMG(artifacts): 100,
+	CRIT DMG = 88.2 + 66.2 + 100
