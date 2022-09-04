@@ -1,0 +1,27 @@
+Rarity,Weapon Type,Name,Base HP,Base ATK,Base DEF,Elemental Mastery,CRIT Rate,CRIT DMG,Healing Bonus,Energy Recharge,Elemental DMG Bonus,Physical DMG Bonus,ATK%
+5,Sword,Traveler,10875,212,683,0,5,50,0,100,0,0,24
+5,Sword,Keqing,13103,323,799,0,5,88.4,0,100,0,0,0
+5,Catalyst,Mona,10409,287,653,0,5,50,0,132,0,0,0
+5,Sword,Jean,14695,239,769,0,5,50,22.2,100,0,0,0
+5,Claymore,Diluc,12981,335,784,0,24.2,50,0,100,0,0,0
+5,Sword,Qiqi,12368,287,922,0,5,50,22.2,100,0,0,0
+5,Bow,Venti,10531,263,669,0,5,50,0,132,0,0,0
+5,Catalyst,Klee,10287,311,615,0,5,50,0,100,28.8,0,0
+5,Bow,Tartaglia,13103,301,815,0,5,50,0,100,28.8,0,0
+5,Polearm,Zhongli,14695,251,738,0,5,50,0,100,28.8,0,0
+5,Sword,Albedo,13226,251,876,0,5,50,0,100,28.8,0,0
+5,Bow,Ganyu,9797,335,630,0,5,88.4,0,100,0,0,0
+5,Polearm,Xiao,12736,349,799,0,24.2,50,0,100,0,0,0
+5,Polearm,Hu Tao,15552,106.4,876,0,5,88.4,0,100,33,0,0
+5,Claymore,Eula,13226,342,751,0,5,88.4,0,100,0,0,0
+5,Sword,Kaedehara Kazuha,13348,297,807,132,5,50,0,100,0,0,0
+5,Sword,Kamisato Ayaka,12858,342,784,0,5,88.4,0,100,18,0,0
+5,Bow,Yoimiya,10164,323,615,0,24.2,50,0,100,0,0,0
+5,Polearm,Raiden Shogun,12907,337,789,0,5,50,0,132,0,0,0
+5,Bow,Aloy,10899,234,676,0,5,50,0,100,28.8,0,0
+5,Catalyst,Sangonomia Kokomi,13471,234,657,0,-95,50,25,100,28.8,0,0
+5,Claymore,Arakati Itto,12858,227,959,0,24.2,50,0,100,0,0,0
+5,Polearm,Shenhe,12993,304,830,0,5,50,0,100,0,0,28.8
+5,Catalyst,Yae Miko,10372,340,569,0,24.2,50,0,100,0,0,0
+5,Sword,Kamisato Ayato,13715,299,769,0,5,88.4,0,100,0,0,0
+5,Bow,Yelan,14450,244,548,0,24.2,50,0,100,0,0,0
