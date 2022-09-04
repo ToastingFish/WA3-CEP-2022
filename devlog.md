@@ -20,7 +20,10 @@
 >- Start to set up the Dataset
 >- Create the supplymentary Programme to extract data from dataset
 ## Week 9 (23 Aug - 29 Aug)
-
+>- Updated main.py with character class (not updated on github =( )
+>- corrected dataset to csv file
 ## Week 10 (30 Aug - 5 Sep)
-
+>- Updated three helper functions
+>- Updated main.py with weapon and artifacts class
+>- introduced the user input to main.py
 ## Sep Holiday (5 Sep - 10 Sep) **Submission date is 10 Sep**
